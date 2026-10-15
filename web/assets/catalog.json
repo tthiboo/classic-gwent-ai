@@ -1,0 +1,3521 @@
+{
+  "cards": [
+    {
+      "id": 0,
+      "name": "Ballista",
+      "ru": "Баллиста",
+      "power": 6,
+      "row": 2,
+      "flags": 0,
+      "kind": 0,
+      "weather": 0,
+      "faction": 0,
+      "copies": 2,
+      "token": false
+    },
+    {
+      "id": 1,
+      "name": "Blue Stripes Commando",
+      "ru": "Боец Синих полосок",
+      "power": 4,
+      "row": 0,
+      "flags": 8,
+      "kind": 0,
+      "weather": 0,
+      "faction": 0,
+      "copies": 3,
+      "token": false
+    },
+    {
+      "id": 2,
+      "name": "Catapult",
+      "ru": "Катапульта",
+      "power": 8,
+      "row": 2,
+      "flags": 8,
+      "kind": 0,
+      "weather": 0,
+      "faction": 0,
+      "copies": 2,
+      "token": false
+    },
+    {
+      "id": 3,
+      "name": "Crinfrid Reavers Dragon Hunter",
+      "ru": "Рубайлы из Кринфрида",
+      "power": 5,
+      "row": 1,
+      "flags": 8,
+      "kind": 0,
+      "weather": 0,
+      "faction": 0,
+      "copies": 3,
+      "token": false
+    },
+    {
+      "id": 4,
+      "name": "Dethmold",
+      "ru": "Детмольд",
+      "power": 6,
+      "row": 1,
+      "flags": 0,
+      "kind": 0,
+      "weather": 0,
+      "faction": 0,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 5,
+      "name": "Dun Banner Medic",
+      "ru": "Лекарь Бурой Хоругви",
+      "power": 5,
+      "row": 2,
+      "flags": 4,
+      "kind": 0,
+      "weather": 0,
+      "faction": 0,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 6,
+      "name": "Esterad Thyssen",
+      "ru": "Эстерад Тиссен",
+      "power": 10,
+      "row": 0,
+      "flags": 1,
+      "kind": 0,
+      "weather": 0,
+      "faction": 0,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 7,
+      "name": "John Natalis",
+      "ru": "Ян Наталис",
+      "power": 10,
+      "row": 0,
+      "flags": 1,
+      "kind": 0,
+      "weather": 0,
+      "faction": 0,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 8,
+      "name": "Kaedweni Siege Expert",
+      "ru": "Каэдвенский осадный мастер",
+      "power": 1,
+      "row": 2,
+      "flags": 16,
+      "kind": 0,
+      "weather": 0,
+      "faction": 0,
+      "copies": 3,
+      "token": false
+    },
+    {
+      "id": 9,
+      "name": "Keira Metz",
+      "ru": "Кейра Мец",
+      "power": 5,
+      "row": 1,
+      "flags": 0,
+      "kind": 0,
+      "weather": 0,
+      "faction": 0,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 10,
+      "name": "Philippa Eilhart",
+      "ru": "Филиппа Эйльхарт",
+      "power": 10,
+      "row": 1,
+      "flags": 1,
+      "kind": 0,
+      "weather": 0,
+      "faction": 0,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 11,
+      "name": "Poor Fucking Infantry",
+      "ru": "Гребаная пехтура",
+      "power": 1,
+      "row": 0,
+      "flags": 8,
+      "kind": 0,
+      "weather": 0,
+      "faction": 0,
+      "copies": 3,
+      "token": false
+    },
+    {
+      "id": 12,
+      "name": "Prince Stennis",
+      "ru": "Принц Стэннис",
+      "power": 5,
+      "row": 0,
+      "flags": 2,
+      "kind": 0,
+      "weather": 0,
+      "faction": 0,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 13,
+      "name": "Redanian Foot Soldier",
+      "ru": "Реданский пехотинец",
+      "power": 1,
+      "row": 0,
+      "flags": 0,
+      "kind": 0,
+      "weather": 0,
+      "faction": 0,
+      "copies": 2,
+      "token": false
+    },
+    {
+      "id": 14,
+      "name": "Sabrina Glevissig",
+      "ru": "Сабрина Глевиссиг",
+      "power": 4,
+      "row": 1,
+      "flags": 0,
+      "kind": 0,
+      "weather": 0,
+      "faction": 0,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 15,
+      "name": "Sheldon Skaggs",
+      "ru": "Шелдон Скаггс",
+      "power": 4,
+      "row": 1,
+      "flags": 0,
+      "kind": 0,
+      "weather": 0,
+      "faction": 0,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 16,
+      "name": "Siege Tower",
+      "ru": "Осадная башня",
+      "power": 6,
+      "row": 2,
+      "flags": 0,
+      "kind": 0,
+      "weather": 0,
+      "faction": 0,
+      "copies": 2,
+      "token": false
+    },
+    {
+      "id": 17,
+      "name": "Siegfried of Denesle",
+      "ru": "Зигфрид из Денесле",
+      "power": 5,
+      "row": 0,
+      "flags": 0,
+      "kind": 0,
+      "weather": 0,
+      "faction": 0,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 18,
+      "name": "Sigismund Dijkstra",
+      "ru": "Сигизмунд Дийкстра",
+      "power": 4,
+      "row": 0,
+      "flags": 2,
+      "kind": 0,
+      "weather": 0,
+      "faction": 0,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 19,
+      "name": "Síle de Tansarville",
+      "ru": "Шеала де Тансервиль",
+      "power": 5,
+      "row": 1,
+      "flags": 0,
+      "kind": 0,
+      "weather": 0,
+      "faction": 0,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 20,
+      "name": "Thaler",
+      "ru": "Талер",
+      "power": 1,
+      "row": 2,
+      "flags": 2,
+      "kind": 0,
+      "weather": 0,
+      "faction": 0,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 21,
+      "name": "Trebuchet",
+      "ru": "Требушет",
+      "power": 6,
+      "row": 2,
+      "flags": 0,
+      "kind": 0,
+      "weather": 0,
+      "faction": 0,
+      "copies": 2,
+      "token": false
+    },
+    {
+      "id": 22,
+      "name": "Vernon Roche",
+      "ru": "Вернон Роше",
+      "power": 10,
+      "row": 0,
+      "flags": 1,
+      "kind": 0,
+      "weather": 0,
+      "faction": 0,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 23,
+      "name": "Ves",
+      "ru": "Бьянка",
+      "power": 5,
+      "row": 0,
+      "flags": 0,
+      "kind": 0,
+      "weather": 0,
+      "faction": 0,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 24,
+      "name": "Yarpen Zigrin",
+      "ru": "Ярпен Зигрин",
+      "power": 2,
+      "row": 0,
+      "flags": 0,
+      "kind": 0,
+      "weather": 0,
+      "faction": 0,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 25,
+      "name": "Albrich",
+      "ru": "Альбрых",
+      "power": 2,
+      "row": 1,
+      "flags": 0,
+      "kind": 0,
+      "weather": 0,
+      "faction": 1,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 26,
+      "name": "Assire var Anahid",
+      "ru": "Ассире вар Анагыд",
+      "power": 6,
+      "row": 1,
+      "flags": 0,
+      "kind": 0,
+      "weather": 0,
+      "faction": 1,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 27,
+      "name": "Black Infantry Archer",
+      "ru": "Лучник Чёрной Пехоты",
+      "power": 10,
+      "row": 1,
+      "flags": 0,
+      "kind": 0,
+      "weather": 0,
+      "faction": 1,
+      "copies": 2,
+      "token": false
+    },
+    {
+      "id": 28,
+      "name": "Cahir Mawr Dyffryn aep Ceallach",
+      "ru": "Кагыр Маур аэп Каеллах",
+      "power": 6,
+      "row": 0,
+      "flags": 0,
+      "kind": 0,
+      "weather": 0,
+      "faction": 1,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 29,
+      "name": "Cynthia",
+      "ru": "Цинтия",
+      "power": 4,
+      "row": 1,
+      "flags": 0,
+      "kind": 0,
+      "weather": 0,
+      "faction": 1,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 30,
+      "name": "Etolian Auxiliary Archers",
+      "ru": "Лучная поддержка",
+      "power": 1,
+      "row": 1,
+      "flags": 4,
+      "kind": 0,
+      "weather": 0,
+      "faction": 1,
+      "copies": 2,
+      "token": false
+    },
+    {
+      "id": 31,
+      "name": "Fringilla Vigo",
+      "ru": "Фрингилья Виго",
+      "power": 6,
+      "row": 1,
+      "flags": 0,
+      "kind": 0,
+      "weather": 0,
+      "faction": 1,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 32,
+      "name": "Heavy Zerrikanian Fire Scorpion",
+      "ru": "Большой огненный скорпион",
+      "power": 10,
+      "row": 2,
+      "flags": 0,
+      "kind": 0,
+      "weather": 0,
+      "faction": 1,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 33,
+      "name": "Impera Brigade Guard",
+      "ru": "Бригада «Импера»",
+      "power": 3,
+      "row": 0,
+      "flags": 8,
+      "kind": 0,
+      "weather": 0,
+      "faction": 1,
+      "copies": 4,
+      "token": false
+    },
+    {
+      "id": 34,
+      "name": "Letho of Gulet",
+      "ru": "Лето из Гулеты",
+      "power": 10,
+      "row": 0,
+      "flags": 1,
+      "kind": 0,
+      "weather": 0,
+      "faction": 1,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 35,
+      "name": "Menno Coehoorn",
+      "ru": "Менно Коегоорн",
+      "power": 10,
+      "row": 0,
+      "flags": 5,
+      "kind": 0,
+      "weather": 0,
+      "faction": 1,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 36,
+      "name": "Morteisen",
+      "ru": "Мортейзен",
+      "power": 3,
+      "row": 0,
+      "flags": 0,
+      "kind": 0,
+      "weather": 0,
+      "faction": 1,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 37,
+      "name": "Morvran Voorhis",
+      "ru": "Морван Воорхис",
+      "power": 10,
+      "row": 2,
+      "flags": 1,
+      "kind": 0,
+      "weather": 0,
+      "faction": 1,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 38,
+      "name": "Nausicaa Cavalry Rider",
+      "ru": "Кавалерия «Наузикаа»",
+      "power": 2,
+      "row": 0,
+      "flags": 8,
+      "kind": 0,
+      "weather": 0,
+      "faction": 1,
+      "copies": 3,
+      "token": false
+    },
+    {
+      "id": 39,
+      "name": "Puttkamer",
+      "ru": "Путткаммер",
+      "power": 3,
+      "row": 1,
+      "flags": 0,
+      "kind": 0,
+      "weather": 0,
+      "faction": 1,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 40,
+      "name": "Rainfarn",
+      "ru": "Раинфарн",
+      "power": 4,
+      "row": 0,
+      "flags": 0,
+      "kind": 0,
+      "weather": 0,
+      "faction": 1,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 41,
+      "name": "Renuald aep Matsen",
+      "ru": "Ренуальд аэп Матсен",
+      "power": 5,
+      "row": 1,
+      "flags": 0,
+      "kind": 0,
+      "weather": 0,
+      "faction": 1,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 42,
+      "name": "Rotten Mangonel",
+      "ru": "Сгнившая петрария",
+      "power": 3,
+      "row": 2,
+      "flags": 0,
+      "kind": 0,
+      "weather": 0,
+      "faction": 1,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 43,
+      "name": "Shilard Fitz-Oesterlen",
+      "ru": "Шилярд Фиц-Остерлен",
+      "power": 7,
+      "row": 0,
+      "flags": 2,
+      "kind": 0,
+      "weather": 0,
+      "faction": 1,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 44,
+      "name": "Siege Engineer",
+      "ru": "Сапёр",
+      "power": 6,
+      "row": 2,
+      "flags": 0,
+      "kind": 0,
+      "weather": 0,
+      "faction": 1,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 45,
+      "name": "Siege Technician",
+      "ru": "Осадная поддержка",
+      "power": 0,
+      "row": 2,
+      "flags": 4,
+      "kind": 0,
+      "weather": 0,
+      "faction": 1,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 46,
+      "name": "Stefan Skellen",
+      "ru": "Стефан Скеллен",
+      "power": 9,
+      "row": 0,
+      "flags": 2,
+      "kind": 0,
+      "weather": 0,
+      "faction": 1,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 47,
+      "name": "Sweers",
+      "ru": "Свирс",
+      "power": 2,
+      "row": 1,
+      "flags": 0,
+      "kind": 0,
+      "weather": 0,
+      "faction": 1,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 48,
+      "name": "Tibor Eggebracht",
+      "ru": "Тибор Эггебрахт",
+      "power": 10,
+      "row": 1,
+      "flags": 1,
+      "kind": 0,
+      "weather": 0,
+      "faction": 1,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 49,
+      "name": "Vanhemar",
+      "ru": "Вангемар",
+      "power": 4,
+      "row": 1,
+      "flags": 0,
+      "kind": 0,
+      "weather": 0,
+      "faction": 1,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 50,
+      "name": "Vattier de Rideaux",
+      "ru": "Ватье де Ридо",
+      "power": 4,
+      "row": 0,
+      "flags": 2,
+      "kind": 0,
+      "weather": 0,
+      "faction": 1,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 51,
+      "name": "Vreemde",
+      "ru": "Вреемде",
+      "power": 2,
+      "row": 0,
+      "flags": 0,
+      "kind": 0,
+      "weather": 0,
+      "faction": 1,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 52,
+      "name": "Young Emmisary",
+      "ru": "Молодой посланник",
+      "power": 5,
+      "row": 0,
+      "flags": 8,
+      "kind": 0,
+      "weather": 0,
+      "faction": 1,
+      "copies": 2,
+      "token": false
+    },
+    {
+      "id": 53,
+      "name": "Zerrikanian Fire Scorpion",
+      "ru": "Огненный скорпион",
+      "power": 5,
+      "row": 2,
+      "flags": 0,
+      "kind": 0,
+      "weather": 0,
+      "faction": 1,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 54,
+      "name": "Biting Frost",
+      "ru": "Мороз",
+      "power": 0,
+      "row": -1,
+      "flags": 0,
+      "kind": 1,
+      "weather": 1,
+      "faction": -1,
+      "copies": 3,
+      "token": false
+    },
+    {
+      "id": 55,
+      "name": "Bovine Defense Force",
+      "ru": "Приманенный бес",
+      "power": 8,
+      "row": 0,
+      "flags": 0,
+      "kind": 0,
+      "weather": 0,
+      "faction": -1,
+      "copies": 1,
+      "token": true
+    },
+    {
+      "id": 56,
+      "name": "Cirilla Fiona Elen Riannon",
+      "ru": "Цирилла",
+      "power": 15,
+      "row": 0,
+      "flags": 1,
+      "kind": 0,
+      "weather": 0,
+      "faction": -1,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 57,
+      "name": "Clear Weather",
+      "ru": "Ясное небо",
+      "power": 0,
+      "row": -1,
+      "flags": 0,
+      "kind": 1,
+      "weather": 0,
+      "faction": -1,
+      "copies": 3,
+      "token": false
+    },
+    {
+      "id": 58,
+      "name": "Commander's Horn",
+      "ru": "Командирский рог",
+      "power": 0,
+      "row": -1,
+      "flags": 0,
+      "kind": 1,
+      "weather": 0,
+      "faction": -1,
+      "copies": 3,
+      "token": false
+    },
+    {
+      "id": 59,
+      "name": "Cow",
+      "ru": "Приманка",
+      "power": 0,
+      "row": 1,
+      "flags": 256,
+      "kind": 0,
+      "weather": 0,
+      "faction": -1,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 60,
+      "name": "Dandelion",
+      "ru": "Лютик",
+      "power": 2,
+      "row": 0,
+      "flags": 64,
+      "kind": 0,
+      "weather": 0,
+      "faction": -1,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 61,
+      "name": "Decoy",
+      "ru": "Чучело",
+      "power": 0,
+      "row": -1,
+      "flags": 0,
+      "kind": 1,
+      "weather": 0,
+      "faction": -1,
+      "copies": 3,
+      "token": false
+    },
+    {
+      "id": 62,
+      "name": "Emiel Regis Rohellec Terzieff-Godefroy",
+      "ru": "Эмиель Регис",
+      "power": 5,
+      "row": 0,
+      "flags": 0,
+      "kind": 0,
+      "weather": 0,
+      "faction": -1,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 63,
+      "name": "Gaunter O'Dimm",
+      "ru": "Гюнтер О’Димм",
+      "power": 2,
+      "row": 2,
+      "flags": 128,
+      "kind": 0,
+      "weather": 0,
+      "faction": -1,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 64,
+      "name": "Gaunter O'Dimm: Darkness",
+      "ru": "Гюнтер О’Димм: тьма",
+      "power": 4,
+      "row": 1,
+      "flags": 128,
+      "kind": 0,
+      "weather": 0,
+      "faction": -1,
+      "copies": 3,
+      "token": false
+    },
+    {
+      "id": 65,
+      "name": "Geralt of Rivia",
+      "ru": "Геральт из Ривии",
+      "power": 15,
+      "row": 0,
+      "flags": 1,
+      "kind": 0,
+      "weather": 0,
+      "faction": -1,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 66,
+      "name": "Impenetrable Fog",
+      "ru": "Мгла",
+      "power": 0,
+      "row": -1,
+      "flags": 0,
+      "kind": 1,
+      "weather": 2,
+      "faction": -1,
+      "copies": 3,
+      "token": false
+    },
+    {
+      "id": 67,
+      "name": "Mysterious Elf (Avallach)",
+      "ru": "Аваллакх",
+      "power": 0,
+      "row": 0,
+      "flags": 3,
+      "kind": 0,
+      "weather": 0,
+      "faction": -1,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 68,
+      "name": "Olgierd von Everec",
+      "ru": "Ольгерд фон Эверек",
+      "power": 6,
+      "row": 3,
+      "flags": 16,
+      "kind": 0,
+      "weather": 0,
+      "faction": -1,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 69,
+      "name": "Scorch",
+      "ru": "Казнь",
+      "power": 0,
+      "row": -1,
+      "flags": 0,
+      "kind": 1,
+      "weather": 0,
+      "faction": -1,
+      "copies": 3,
+      "token": false
+    },
+    {
+      "id": 70,
+      "name": "Skellige Storm",
+      "ru": "Шторм со Скеллиге",
+      "power": 0,
+      "row": -1,
+      "flags": 0,
+      "kind": 1,
+      "weather": 6,
+      "faction": -1,
+      "copies": 3,
+      "token": false
+    },
+    {
+      "id": 71,
+      "name": "Torrential Rain",
+      "ru": "Ливень",
+      "power": 0,
+      "row": -1,
+      "flags": 0,
+      "kind": 1,
+      "weather": 4,
+      "faction": -1,
+      "copies": 3,
+      "token": false
+    },
+    {
+      "id": 72,
+      "name": "Triss Merigold",
+      "ru": "Трисс Меригольд",
+      "power": 7,
+      "row": 0,
+      "flags": 1,
+      "kind": 0,
+      "weather": 0,
+      "faction": -1,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 73,
+      "name": "Vesemir",
+      "ru": "Весемир",
+      "power": 6,
+      "row": 0,
+      "flags": 0,
+      "kind": 0,
+      "weather": 0,
+      "faction": -1,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 74,
+      "name": "Villentretenmerth",
+      "ru": "Виллентретенмерт",
+      "power": 7,
+      "row": 0,
+      "flags": 32,
+      "kind": 0,
+      "weather": 0,
+      "faction": -1,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 75,
+      "name": "Yennefer of Vengerberg",
+      "ru": "Йеннифер из Венгерберга",
+      "power": 7,
+      "row": 1,
+      "flags": 5,
+      "kind": 0,
+      "weather": 0,
+      "faction": -1,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "id": 76,
+      "name": "Zoltan Chivay",
+      "ru": "Золтан Хивай",
+      "power": 5,
+      "row": 0,
+      "flags": 0,
+      "kind": 0,
+      "weather": 0,
+      "faction": -1,
+      "copies": 1,
+      "token": false
+    },
+    {
+      "name": "Arachas",
+      "ru": "Главоглаз",
+      "power": 4,
+      "row": 0,
+      "flags": 128,
+      "copies": 3,
+      "group": 201,
+      "token": false,
+      "faction": 2,
+      "id": 77,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Arachas Behemoth",
+      "ru": "Огромный главоглаз",
+      "power": 6,
+      "row": 2,
+      "flags": 128,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 2,
+      "id": 78,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Botchling",
+      "ru": "Игоша",
+      "power": 4,
+      "row": 0,
+      "flags": 0,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 2,
+      "id": 79,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Celaeno Harpy",
+      "ru": "Гарпия келено",
+      "power": 2,
+      "row": 3,
+      "flags": 0,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 2,
+      "id": 80,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Cockatrice",
+      "ru": "Василиск",
+      "power": 2,
+      "row": 1,
+      "flags": 0,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 2,
+      "id": 81,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Crone: Brewess",
+      "ru": "Ведьма: Кухарка",
+      "power": 6,
+      "row": 0,
+      "flags": 128,
+      "copies": 1,
+      "group": 202,
+      "token": false,
+      "faction": 2,
+      "id": 82,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Crone: Weavess",
+      "ru": "Ведьма: Пряха",
+      "power": 6,
+      "row": 0,
+      "flags": 128,
+      "copies": 1,
+      "group": 202,
+      "token": false,
+      "faction": 2,
+      "id": 83,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Crone: Whispess",
+      "ru": "Ведьма: Шептуха",
+      "power": 6,
+      "row": 0,
+      "flags": 128,
+      "copies": 1,
+      "group": 202,
+      "token": false,
+      "faction": 2,
+      "id": 84,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Draug",
+      "ru": "Драуг",
+      "power": 10,
+      "row": 0,
+      "flags": 1,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 2,
+      "id": 85,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Earth Elemental",
+      "ru": "Элементаль земли",
+      "power": 6,
+      "row": 2,
+      "flags": 0,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 2,
+      "id": 86,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Endrega",
+      "ru": "Эндрига",
+      "power": 2,
+      "row": 1,
+      "flags": 0,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 2,
+      "id": 87,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Fiend",
+      "ru": "Бес",
+      "power": 6,
+      "row": 0,
+      "flags": 0,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 2,
+      "id": 88,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Fire Elemental",
+      "ru": "Элементаль огня",
+      "power": 6,
+      "row": 2,
+      "flags": 0,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 2,
+      "id": 89,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Foglet",
+      "ru": "Туманник",
+      "power": 2,
+      "row": 0,
+      "flags": 0,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 2,
+      "id": 90,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Forktail",
+      "ru": "Вилохвост",
+      "power": 5,
+      "row": 0,
+      "flags": 0,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 2,
+      "id": 91,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Frightener",
+      "ru": "Пугач",
+      "power": 5,
+      "row": 0,
+      "flags": 0,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 2,
+      "id": 92,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Gargoyle",
+      "ru": "Гаргулья",
+      "power": 2,
+      "row": 1,
+      "flags": 0,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 2,
+      "id": 93,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Ghoul",
+      "ru": "Гуль",
+      "power": 1,
+      "row": 0,
+      "flags": 128,
+      "copies": 3,
+      "group": 203,
+      "token": false,
+      "faction": 2,
+      "id": 94,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Grave Hag",
+      "ru": "Кладбищенская баба",
+      "power": 5,
+      "row": 1,
+      "flags": 0,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 2,
+      "id": 95,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Griffin",
+      "ru": "Грифон",
+      "power": 5,
+      "row": 0,
+      "flags": 0,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 2,
+      "id": 96,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Harpy",
+      "ru": "Гарпия",
+      "power": 2,
+      "row": 3,
+      "flags": 0,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 2,
+      "id": 97,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Ice Giant",
+      "ru": "Ледяной великан",
+      "power": 5,
+      "row": 2,
+      "flags": 0,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 2,
+      "id": 98,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Imlerith",
+      "ru": "Имлерих",
+      "power": 10,
+      "row": 0,
+      "flags": 1,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 2,
+      "id": 99,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Kayran",
+      "ru": "Кейран",
+      "power": 8,
+      "row": 3,
+      "flags": 17,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 2,
+      "id": 100,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Leshen",
+      "ru": "Леший",
+      "power": 10,
+      "row": 1,
+      "flags": 1,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 2,
+      "id": 101,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Nekker",
+      "ru": "Накер",
+      "power": 2,
+      "row": 0,
+      "flags": 128,
+      "copies": 3,
+      "group": 204,
+      "token": false,
+      "faction": 2,
+      "id": 102,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Plague Maiden",
+      "ru": "Моровая дева",
+      "power": 5,
+      "row": 0,
+      "flags": 0,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 2,
+      "id": 103,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Toad",
+      "ru": "Принц-жаба",
+      "power": 7,
+      "row": 1,
+      "flags": 4096,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 2,
+      "id": 104,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Vampire: Bruxa",
+      "ru": "Вампиры: брукса",
+      "power": 4,
+      "row": 0,
+      "flags": 128,
+      "copies": 1,
+      "group": 205,
+      "token": false,
+      "faction": 2,
+      "id": 105,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Vampire: Ekimmara",
+      "ru": "Вампиры: экимма",
+      "power": 4,
+      "row": 0,
+      "flags": 128,
+      "copies": 1,
+      "group": 205,
+      "token": false,
+      "faction": 2,
+      "id": 106,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Vampire: Fleder",
+      "ru": "Вампиры: фледер",
+      "power": 4,
+      "row": 0,
+      "flags": 128,
+      "copies": 1,
+      "group": 205,
+      "token": false,
+      "faction": 2,
+      "id": 107,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Vampire: Garkain",
+      "ru": "Вампиры: гаркайн",
+      "power": 4,
+      "row": 0,
+      "flags": 128,
+      "copies": 1,
+      "group": 205,
+      "token": false,
+      "faction": 2,
+      "id": 108,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Vampire: Katakan",
+      "ru": "Вампиры: катакан",
+      "power": 5,
+      "row": 0,
+      "flags": 128,
+      "copies": 1,
+      "group": 205,
+      "token": false,
+      "faction": 2,
+      "id": 109,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Werewolf",
+      "ru": "Волколак",
+      "power": 5,
+      "row": 0,
+      "flags": 0,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 2,
+      "id": 110,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Wyvern",
+      "ru": "Виверна",
+      "power": 2,
+      "row": 1,
+      "flags": 0,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 2,
+      "id": 111,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Barclay Els",
+      "ru": "Барклай Эльс",
+      "power": 6,
+      "row": 3,
+      "flags": 0,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 3,
+      "id": 112,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Ciaran aep Easnillien",
+      "ru": "Киаран аэп Эасниллен",
+      "power": 3,
+      "row": 3,
+      "flags": 0,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 3,
+      "id": 113,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Dennis Cranmer",
+      "ru": "Деннис Кранмер",
+      "power": 6,
+      "row": 0,
+      "flags": 0,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 3,
+      "id": 114,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Dol Blathanna Archer",
+      "ru": "Лучник из Дол Блатанны",
+      "power": 4,
+      "row": 1,
+      "flags": 0,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 3,
+      "id": 115,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Dol Blathanna Scout",
+      "ru": "Следопыт из Дол Блатанны",
+      "power": 6,
+      "row": 3,
+      "flags": 0,
+      "copies": 3,
+      "group": -1,
+      "token": false,
+      "faction": 3,
+      "id": 116,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Dwarven Skirmisher",
+      "ru": "Краснолюд-застрельщик",
+      "power": 3,
+      "row": 0,
+      "flags": 128,
+      "copies": 3,
+      "group": 301,
+      "token": false,
+      "faction": 3,
+      "id": 117,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Eithne",
+      "ru": "Эитнэ",
+      "power": 10,
+      "row": 1,
+      "flags": 1,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 3,
+      "id": 118,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Elven Skirmisher",
+      "ru": "Эльфийский застрельщик",
+      "power": 2,
+      "row": 1,
+      "flags": 128,
+      "copies": 3,
+      "group": 302,
+      "token": false,
+      "faction": 3,
+      "id": 119,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Filavandrel",
+      "ru": "Филавандрель",
+      "power": 6,
+      "row": 3,
+      "flags": 0,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 3,
+      "id": 120,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Havekar Healer",
+      "ru": "Лекарь-гавенкар",
+      "power": 0,
+      "row": 1,
+      "flags": 4,
+      "copies": 3,
+      "group": -1,
+      "token": false,
+      "faction": 3,
+      "id": 121,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Havekar Smuggler",
+      "ru": "Поддержка гавенкаров",
+      "power": 5,
+      "row": 0,
+      "flags": 128,
+      "copies": 3,
+      "group": 303,
+      "token": false,
+      "faction": 3,
+      "id": 122,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Ida Emean",
+      "ru": "Ида Эмеан",
+      "power": 6,
+      "row": 1,
+      "flags": 0,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 3,
+      "id": 123,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Iorveth",
+      "ru": "Иорвет",
+      "power": 10,
+      "row": 1,
+      "flags": 1,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 3,
+      "id": 124,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Isengrim Faoiltiarna",
+      "ru": "Изенгрим Фаоильтиарна",
+      "power": 10,
+      "row": 0,
+      "flags": 17,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 3,
+      "id": 125,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Mahakaman Defender",
+      "ru": "Махакамские добровольцы",
+      "power": 5,
+      "row": 0,
+      "flags": 0,
+      "copies": 5,
+      "group": -1,
+      "token": false,
+      "faction": 3,
+      "id": 126,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Milva",
+      "ru": "Мильва",
+      "power": 10,
+      "row": 1,
+      "flags": 16,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 3,
+      "id": 127,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Riordain",
+      "ru": "Риордаин",
+      "power": 1,
+      "row": 1,
+      "flags": 0,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 3,
+      "id": 128,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Saesenthessis",
+      "ru": "Саэсентессис",
+      "power": 10,
+      "row": 1,
+      "flags": 1,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 3,
+      "id": 129,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Schirru",
+      "ru": "Ширру",
+      "power": 8,
+      "row": 2,
+      "flags": 8192,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 3,
+      "id": 130,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Toruviel",
+      "ru": "Торувьель",
+      "power": 2,
+      "row": 1,
+      "flags": 0,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 3,
+      "id": 131,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Vrihedd Brigade",
+      "ru": "Бригада «Врихедд»",
+      "power": 5,
+      "row": 3,
+      "flags": 0,
+      "copies": 2,
+      "group": -1,
+      "token": false,
+      "faction": 3,
+      "id": 132,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Vrihedd Brigade Recruit",
+      "ru": "Кадет «Врихедда»",
+      "power": 4,
+      "row": 1,
+      "flags": 0,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 3,
+      "id": 133,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Yaevinn",
+      "ru": "Яевинн",
+      "power": 6,
+      "row": 3,
+      "flags": 0,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 3,
+      "id": 134,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Clan an Craite Warrior",
+      "ru": "Воин клана ан Крайт",
+      "power": 6,
+      "row": 0,
+      "flags": 8,
+      "copies": 3,
+      "group": -1,
+      "token": false,
+      "faction": 4,
+      "id": 135,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Berserker",
+      "ru": "Берсерк",
+      "power": 4,
+      "row": 0,
+      "flags": 512,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 4,
+      "id": 136,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Young Berserker",
+      "ru": "Молодой берсерк",
+      "power": 2,
+      "row": 1,
+      "flags": 512,
+      "copies": 3,
+      "group": -1,
+      "token": false,
+      "faction": 4,
+      "id": 137,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Birna Bran",
+      "ru": "Бирна Бран",
+      "power": 2,
+      "row": 0,
+      "flags": 4,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 4,
+      "id": 138,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Clan Brokvar Archer",
+      "ru": "Лучник клана Броквар",
+      "power": 6,
+      "row": 1,
+      "flags": 0,
+      "copies": 3,
+      "group": -1,
+      "token": false,
+      "faction": 4,
+      "id": 139,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Clan Tordarroch Armorsmith",
+      "ru": "Кузнец клана Тордарох",
+      "power": 4,
+      "row": 0,
+      "flags": 0,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 4,
+      "id": 140,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Clan Dimun Pirate",
+      "ru": "Пират из клана Димун",
+      "power": 6,
+      "row": 1,
+      "flags": 16384,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 4,
+      "id": 141,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Clan Drummond Shield Maiden",
+      "ru": "Воительница клана Друммонд",
+      "power": 4,
+      "row": 0,
+      "flags": 8,
+      "copies": 3,
+      "group": 401,
+      "token": false,
+      "faction": 4,
+      "id": 142,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Clan Heymaey Skald",
+      "ru": "Скальд клана Хэймэй",
+      "power": 4,
+      "row": 1,
+      "flags": 0,
+      "copies": 3,
+      "group": -1,
+      "token": false,
+      "faction": 4,
+      "id": 143,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Cerys",
+      "ru": "Керис",
+      "power": 10,
+      "row": 0,
+      "flags": 129,
+      "copies": 1,
+      "group": 401,
+      "token": false,
+      "faction": 4,
+      "id": 144,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Donar an Hindar",
+      "ru": "Донар ан Хиндар",
+      "power": 4,
+      "row": 0,
+      "flags": 0,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 4,
+      "id": 145,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Draig Bon-Dhu",
+      "ru": "Драйг Бон Дху",
+      "power": 2,
+      "row": 2,
+      "flags": 64,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 4,
+      "id": 146,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Ermion",
+      "ru": "Мышовур",
+      "power": 8,
+      "row": 1,
+      "flags": 1025,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 4,
+      "id": 147,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Hemdall",
+      "ru": "Хеймдалль",
+      "power": 11,
+      "row": 0,
+      "flags": 1,
+      "copies": 1,
+      "group": -1,
+      "token": true,
+      "faction": 4,
+      "id": 148,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Hjalmar",
+      "ru": "Хьялмар",
+      "power": 10,
+      "row": 1,
+      "flags": 1,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 4,
+      "id": 149,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Holger Blackhand",
+      "ru": "Хольгер Чернорукий",
+      "power": 4,
+      "row": 2,
+      "flags": 0,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 4,
+      "id": 150,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Kambi",
+      "ru": "Камби",
+      "power": 0,
+      "row": 0,
+      "flags": 2048,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 4,
+      "id": 151,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Light Longship",
+      "ru": "Лёгкий драккар",
+      "power": 4,
+      "row": 1,
+      "flags": 128,
+      "copies": 3,
+      "group": 402,
+      "token": false,
+      "faction": 4,
+      "id": 152,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Blueboy Lugos",
+      "ru": "Лугос Синий",
+      "power": 6,
+      "row": 0,
+      "flags": 0,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 4,
+      "id": 153,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Madman Lugos",
+      "ru": "Лугос Безумный",
+      "power": 6,
+      "row": 0,
+      "flags": 0,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 4,
+      "id": 154,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Olaf",
+      "ru": "Олаф",
+      "power": 12,
+      "row": 3,
+      "flags": 16,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 4,
+      "id": 155,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Svanrige",
+      "ru": "Сванриге",
+      "power": 4,
+      "row": 0,
+      "flags": 0,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 4,
+      "id": 156,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Udalryk",
+      "ru": "Удальрик",
+      "power": 4,
+      "row": 0,
+      "flags": 0,
+      "copies": 1,
+      "group": -1,
+      "token": false,
+      "faction": 4,
+      "id": 157,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "War Longship",
+      "ru": "Военный драккар",
+      "power": 6,
+      "row": 2,
+      "flags": 8,
+      "copies": 3,
+      "group": -1,
+      "token": false,
+      "faction": 4,
+      "id": 158,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Transformed Vildkaarl",
+      "ru": "Обратившийся вильдкарл",
+      "power": 14,
+      "row": 0,
+      "flags": 16,
+      "copies": 1,
+      "group": -1,
+      "token": true,
+      "faction": 4,
+      "id": 159,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "name": "Transformed Young Vildkaarl",
+      "ru": "Обратившийся молодой вильдкарл",
+      "power": 8,
+      "row": 1,
+      "flags": 8,
+      "copies": 3,
+      "group": -1,
+      "token": true,
+      "faction": 4,
+      "id": 160,
+      "kind": 0,
+      "weather": 0
+    },
+    {
+      "id": 161,
+      "name": "Mardroeme",
+      "ru": "Мардрём",
+      "power": 0,
+      "row": -1,
+      "flags": 0,
+      "kind": 1,
+      "weather": 0,
+      "faction": 4,
+      "copies": 3,
+      "token": false
+    }
+  ],
+  "leaders": [
+    {
+      "faction": 0,
+      "code": 0,
+      "name": "Фольтест · Завоеватель",
+      "description": "Удваивает силу обычных осадных отрядов.",
+      "asset": "assets/cards/e337f92ff0f53749.webp"
+    },
+    {
+      "faction": 0,
+      "code": 1,
+      "name": "Фольтест · Предводитель Севера",
+      "description": "Снимает всю погоду.",
+      "asset": "assets/cards/634922854b50cb5a.webp"
+    },
+    {
+      "faction": 0,
+      "code": 2,
+      "name": "Фольтест · Сын Меделла",
+      "description": "Уничтожает сильнейшие обычные карты дальнобойного ряда противника при сумме ряда от 10.",
+      "asset": "assets/cards/17d1077a1644be43.webp"
+    },
+    {
+      "faction": 0,
+      "code": 6,
+      "name": "Фольтест · Король Темерии",
+      "description": "Разыгрывает Мглу из колоды.",
+      "asset": "assets/cards/dfddb7ff1dac5da2.webp"
+    },
+    {
+      "faction": 0,
+      "code": 7,
+      "name": "Фольтест · Железный Владыка",
+      "description": "Уничтожает сильнейшие обычные карты осады противника при сумме ряда от 10.",
+      "asset": "assets/cards/f9ddcc1096e23ada.webp"
+    },
+    {
+      "faction": 1,
+      "code": 3,
+      "name": "Эмгыр · Властелин Юга",
+      "description": "Забирает обычного бойца из чужого сброса в руку.",
+      "asset": "assets/cards/4fa9e6dffae1ad85.webp"
+    },
+    {
+      "faction": 1,
+      "code": 4,
+      "name": "Эмгыр · Белое Пламя",
+      "description": "Отменяет способность вражеского лидера.",
+      "asset": "assets/cards/afb0a3c5436e0917.webp"
+    },
+    {
+      "faction": 1,
+      "code": 5,
+      "name": "Эмгыр · Ёж из Эрленвальда",
+      "description": "Разыгрывает Ливень из колоды.",
+      "asset": "assets/cards/b9925fb94d079cb9.webp"
+    },
+    {
+      "faction": 1,
+      "code": 8,
+      "name": "Эмгыр · Император Нильфгаарда",
+      "description": "Показывает три случайные карты из руки противника.",
+      "asset": "assets/cards/0b5ad6b087289dd6.webp"
+    },
+    {
+      "faction": 1,
+      "code": 9,
+      "name": "Эмгыр · Завоеватель Севера",
+      "description": "Лекари обеих сторон воскрешают случайные цели.",
+      "asset": "assets/cards/81fbf3a868e7cf0e.webp"
+    },
+    {
+      "faction": 2,
+      "code": 10,
+      "name": "Эредин · Король Aen Elle",
+      "description": "Удваивает силу обычных рукопашных отрядов.",
+      "asset": "assets/cards/45a9550fa845e626.webp"
+    },
+    {
+      "faction": 2,
+      "code": 11,
+      "name": "Эредин · Командир Дикой Охоты",
+      "description": "Разыгрывает выбранную погоду из колоды.",
+      "asset": "assets/cards/dac4c4273f600e9f.webp"
+    },
+    {
+      "faction": 2,
+      "code": 12,
+      "name": "Эредин · Убийца Оберона",
+      "description": "Сбросьте две карты и выберите одну карту из колоды в руку.",
+      "asset": "assets/cards/b7d4f9c63c36037e.webp"
+    },
+    {
+      "faction": 2,
+      "code": 13,
+      "name": "Эредин · Владыка Тир на Лиа",
+      "description": "Возвращает обычного бойца из своего сброса в руку.",
+      "asset": "assets/cards/7007b20c5ce347de.webp"
+    },
+    {
+      "faction": 2,
+      "code": 14,
+      "name": "Эредин · Вероломный",
+      "description": "Удваивает силу обычных шпионов на обеих сторонах.",
+      "asset": "assets/cards/972f350ce3646c1d.webp"
+    },
+    {
+      "faction": 3,
+      "code": 15,
+      "name": "Францеска · Маргаритка из Долин",
+      "description": "Одна дополнительная карта в стартовой руке.",
+      "asset": "assets/cards/9168d1c044d15765.webp"
+    },
+    {
+      "faction": 3,
+      "code": 16,
+      "name": "Францеска · Прекраснейшая",
+      "description": "Удваивает силу обычных дальнобойных отрядов.",
+      "asset": "assets/cards/e05bd73203742b51.webp"
+    },
+    {
+      "faction": 3,
+      "code": 17,
+      "name": "Францеска · Королева Дол Блатанны",
+      "description": "Уничтожает сильнейшие обычные рукопашные карты противника при сумме ряда от 10.",
+      "asset": "assets/cards/5a12cd479e94cebc.webp"
+    },
+    {
+      "faction": 3,
+      "code": 18,
+      "name": "Францеска · Истинная эльфка",
+      "description": "Разыгрывает Мороз из колоды.",
+      "asset": "assets/cards/b94c8ef6569910b6.webp"
+    },
+    {
+      "faction": 3,
+      "code": 19,
+      "name": "Францеска · Надежда Aen Seidhe",
+      "description": "Перемещает проворные отряды в наиболее сильное расположение.",
+      "asset": "assets/cards/400ffc5ea423e1ae.webp"
+    },
+    {
+      "faction": 4,
+      "code": 20,
+      "name": "Крах ан Крайт",
+      "description": "Перемешивает оба сброса обратно в колоды.",
+      "asset": "assets/cards/e5c4fcc75256929c.webp"
+    },
+    {
+      "faction": 4,
+      "code": 21,
+      "name": "Король Бран",
+      "description": "Погода снижает базовую силу обычных отрядов лишь вдвое, с округлением вверх.",
+      "asset": "assets/cards/f6736ef6bd2d098d.webp"
+    }
+  ],
+  "assets": {
+    "0": {
+      "0": [
+        "assets/cards/6e66b77a4797bdba.webp",
+        "assets/cards/d51045138e78b924.webp"
+      ]
+    },
+    "1": {
+      "0": [
+        "assets/cards/763329f5c09be268.webp",
+        "assets/cards/d007cfa75a991f83.webp",
+        "assets/cards/381f43daf5506b87.webp"
+      ]
+    },
+    "2": {
+      "0": [
+        "assets/cards/8b56c246777168e5.webp",
+        "assets/cards/3c5dd22ce90a1d45.webp"
+      ]
+    },
+    "3": {
+      "0": [
+        "assets/cards/aa1bfe17bd8bf5dc.webp",
+        "assets/cards/2b36c022ebbf33fe.webp",
+        "assets/cards/a8ff019ca80d9e71.webp"
+      ]
+    },
+    "4": {
+      "0": [
+        "assets/cards/706a904518e90435.webp"
+      ]
+    },
+    "5": {
+      "0": [
+        "assets/cards/550bb689281bc03b.webp"
+      ]
+    },
+    "6": {
+      "0": [
+        "assets/cards/7b269c4f1514cac3.webp"
+      ]
+    },
+    "7": {
+      "0": [
+        "assets/cards/9db0c739ba03f0d1.webp"
+      ]
+    },
+    "8": {
+      "0": [
+        "assets/cards/5624d39450babb7c.webp",
+        "assets/cards/1becdf10ad6c03d8.webp",
+        "assets/cards/27f02700649180f8.webp"
+      ]
+    },
+    "9": {
+      "0": [
+        "assets/cards/2acadbdb70389652.webp"
+      ]
+    },
+    "10": {
+      "0": [
+        "assets/cards/a2723357ba62137e.webp"
+      ]
+    },
+    "11": {
+      "0": [
+        "assets/cards/31380d5c5ca38fb5.webp",
+        "assets/cards/ab1c7fac1b91c579.webp",
+        "assets/cards/5271f5051b28a48b.webp"
+      ]
+    },
+    "12": {
+      "0": [
+        "assets/cards/b241df24da01c48d.webp"
+      ]
+    },
+    "13": {
+      "0": [
+        "assets/cards/f1c0ebd511db04ef.webp",
+        "assets/cards/47b957beff56c456.webp"
+      ]
+    },
+    "14": {
+      "0": [
+        "assets/cards/1b217fc13e233cb4.webp"
+      ]
+    },
+    "15": {
+      "0": [
+        "assets/cards/40b6ad44afc83f95.webp"
+      ]
+    },
+    "16": {
+      "0": [
+        "assets/cards/6837f1da1eede617.webp",
+        "assets/cards/7440778c344239db.webp"
+      ]
+    },
+    "17": {
+      "0": [
+        "assets/cards/23be8da948bb0601.webp"
+      ]
+    },
+    "18": {
+      "0": [
+        "assets/cards/9bda8cff194464b9.webp"
+      ]
+    },
+    "19": {
+      "0": [
+        "assets/cards/bb5f362a2edfa9ce.webp"
+      ]
+    },
+    "20": {
+      "0": [
+        "assets/cards/79ae0a54d926ceed.webp"
+      ]
+    },
+    "21": {
+      "0": [
+        "assets/cards/33f9623f99a39f09.webp",
+        "assets/cards/78e2ef3e20c8f938.webp"
+      ]
+    },
+    "22": {
+      "0": [
+        "assets/cards/393cb9d8d85cdabe.webp"
+      ]
+    },
+    "23": {
+      "0": [
+        "assets/cards/3ce51e125df8e1bb.webp"
+      ]
+    },
+    "24": {
+      "0": [
+        "assets/cards/44786d75efa746b8.webp"
+      ]
+    },
+    "25": {
+      "1": [
+        "assets/cards/b270fade9b8e34f3.webp"
+      ]
+    },
+    "26": {
+      "1": [
+        "assets/cards/52f58d48b62787d5.webp"
+      ]
+    },
+    "27": {
+      "1": [
+        "assets/cards/421894ce38601458.webp",
+        "assets/cards/e81943e58143bcd1.webp"
+      ]
+    },
+    "28": {
+      "1": [
+        "assets/cards/da34e5d26724d772.webp"
+      ]
+    },
+    "29": {
+      "1": [
+        "assets/cards/8e74c43760003bb8.webp"
+      ]
+    },
+    "30": {
+      "1": [
+        "assets/cards/d5c1d219d4c34b19.webp",
+        "assets/cards/4aa66d52e50130d4.webp"
+      ]
+    },
+    "31": {
+      "1": [
+        "assets/cards/36ec51254cfcc27d.webp"
+      ]
+    },
+    "32": {
+      "1": [
+        "assets/cards/bd43f0021a6cda01.webp"
+      ]
+    },
+    "33": {
+      "1": [
+        "assets/cards/1de4b676a363e934.webp",
+        "assets/cards/beb7e3a57de1531b.webp",
+        "assets/cards/a146fbed7008ddcd.webp",
+        "assets/cards/da378fe382a9fe05.webp"
+      ]
+    },
+    "34": {
+      "1": [
+        "assets/cards/5da24b4452420ac0.webp"
+      ]
+    },
+    "35": {
+      "1": [
+        "assets/cards/9579c95fd872388f.webp"
+      ]
+    },
+    "36": {
+      "1": [
+        "assets/cards/56934925d611f7c5.webp"
+      ]
+    },
+    "37": {
+      "1": [
+        "assets/cards/c44abf34a630fee5.webp"
+      ]
+    },
+    "38": {
+      "1": [
+        "assets/cards/26ea49eb8da135f3.webp",
+        "assets/cards/f36ab0264e2da2f3.webp",
+        "assets/cards/841797771990c34c.webp"
+      ]
+    },
+    "39": {
+      "1": [
+        "assets/cards/356235d98accbd14.webp"
+      ]
+    },
+    "40": {
+      "1": [
+        "assets/cards/ab6a5ef052853d86.webp"
+      ]
+    },
+    "41": {
+      "1": [
+        "assets/cards/45a510ff1538c411.webp"
+      ]
+    },
+    "42": {
+      "1": [
+        "assets/cards/d0ab8edbf4db50dd.webp"
+      ]
+    },
+    "43": {
+      "1": [
+        "assets/cards/b8c637fc0cec9f47.webp"
+      ]
+    },
+    "44": {
+      "1": [
+        "assets/cards/738d71c23312d8e8.webp"
+      ]
+    },
+    "45": {
+      "1": [
+        "assets/cards/0e2bef3217cea294.webp"
+      ]
+    },
+    "46": {
+      "1": [
+        "assets/cards/af3ea9a2d08d0b39.webp"
+      ]
+    },
+    "47": {
+      "1": [
+        "assets/cards/a22610417604889b.webp"
+      ]
+    },
+    "48": {
+      "1": [
+        "assets/cards/5fbbb0c608ace573.webp"
+      ]
+    },
+    "49": {
+      "1": [
+        "assets/cards/1b4d8199876d2d5d.webp"
+      ]
+    },
+    "50": {
+      "1": [
+        "assets/cards/cfaa3ea598e849cb.webp"
+      ]
+    },
+    "51": {
+      "1": [
+        "assets/cards/d1ee7aa3a04aec59.webp"
+      ]
+    },
+    "52": {
+      "1": [
+        "assets/cards/14312d946f2fdd56.webp",
+        "assets/cards/3de6a6529a7492bc.webp"
+      ]
+    },
+    "53": {
+      "1": [
+        "assets/cards/c7408612578eb55b.webp"
+      ]
+    },
+    "54": {
+      "0": [
+        "assets/cards/5e28b901445d4845.webp"
+      ],
+      "1": [
+        "assets/cards/48e5610425261587.webp"
+      ],
+      "2": [
+        "assets/cards/1d2c79b30a77a011.webp"
+      ],
+      "3": [
+        "assets/cards/a73129615ddd93aa.webp"
+      ],
+      "4": [
+        "assets/cards/0c80cfe900530cd9.webp"
+      ]
+    },
+    "55": {
+      "0": [
+        "assets/cards/c7de8747d55a5f5f.webp"
+      ],
+      "1": [
+        "assets/cards/d35ac1c21a113284.webp"
+      ],
+      "2": [
+        "assets/cards/1de3aa54a9b5010d.webp"
+      ],
+      "3": [
+        "assets/cards/ceb65abd3da91c69.webp"
+      ],
+      "4": [
+        "assets/cards/52875447b6982d27.webp"
+      ]
+    },
+    "56": {
+      "0": [
+        "assets/cards/8c8b2a69f07c1d73.webp"
+      ],
+      "1": [
+        "assets/cards/049dd026876cb629.webp"
+      ],
+      "2": [
+        "assets/cards/44ef2d2f3cb5eaaf.webp"
+      ],
+      "3": [
+        "assets/cards/327253a6619a401d.webp"
+      ],
+      "4": [
+        "assets/cards/9c920ccae0753e98.webp"
+      ]
+    },
+    "57": {
+      "0": [
+        "assets/cards/4912f9556618a573.webp"
+      ],
+      "1": [
+        "assets/cards/8d28b27c050ec068.webp"
+      ],
+      "2": [
+        "assets/cards/fcc7c37c415bd17b.webp"
+      ],
+      "3": [
+        "assets/cards/4913fe311c8a8fad.webp"
+      ],
+      "4": [
+        "assets/cards/d76068ddc0928ad7.webp"
+      ]
+    },
+    "58": {
+      "0": [
+        "assets/cards/fd2d312169e9f565.webp"
+      ],
+      "1": [
+        "assets/cards/0fae246d1bdae81b.webp"
+      ],
+      "2": [
+        "assets/cards/b5ccaab5c71f1971.webp"
+      ],
+      "3": [
+        "assets/cards/2216ce3b5a7f9177.webp"
+      ],
+      "4": [
+        "assets/cards/fcefa3bfb8636a20.webp"
+      ]
+    },
+    "59": {
+      "0": [
+        "assets/cards/7eccebc828a37c38.webp"
+      ],
+      "1": [
+        "assets/cards/091862c0edbeb19e.webp"
+      ],
+      "2": [
+        "assets/cards/55b924175d0a56bb.webp"
+      ],
+      "3": [
+        "assets/cards/7308fd5ca03587d2.webp"
+      ],
+      "4": [
+        "assets/cards/85d2a55f6a11b693.webp"
+      ]
+    },
+    "60": {
+      "0": [
+        "assets/cards/9b8c603316158e1c.webp"
+      ],
+      "1": [
+        "assets/cards/9db471ae43152d33.webp"
+      ],
+      "2": [
+        "assets/cards/f6d47d12cd7b876d.webp"
+      ],
+      "3": [
+        "assets/cards/5dc587a2e12e6d9f.webp"
+      ],
+      "4": [
+        "assets/cards/bbccd6f0f3b2bd5c.webp"
+      ]
+    },
+    "61": {
+      "0": [
+        "assets/cards/0f4bf7aeeab39a17.webp"
+      ],
+      "1": [
+        "assets/cards/3db04fb2dad347bf.webp"
+      ],
+      "2": [
+        "assets/cards/cdb2e292e02ba490.webp"
+      ],
+      "3": [
+        "assets/cards/be2d5278819d1c9b.webp"
+      ],
+      "4": [
+        "assets/cards/c213e5916f606f6e.webp"
+      ]
+    },
+    "62": {
+      "0": [
+        "assets/cards/74dc7003683b30cd.webp"
+      ],
+      "1": [
+        "assets/cards/5b958667f1c5f0da.webp"
+      ],
+      "2": [
+        "assets/cards/8f09bcc4760a53bc.webp"
+      ],
+      "3": [
+        "assets/cards/d313dd7febd711f9.webp"
+      ],
+      "4": [
+        "assets/cards/96882c2cf21f36a4.webp"
+      ]
+    },
+    "63": {
+      "0": [
+        "assets/cards/6d68035038e0d4a8.webp"
+      ],
+      "1": [
+        "assets/cards/fe038835335fba67.webp"
+      ],
+      "2": [
+        "assets/cards/e5e6c29454c75f25.webp"
+      ],
+      "3": [
+        "assets/cards/1be73c499c769385.webp"
+      ],
+      "4": [
+        "assets/cards/6b0cc5ae69d513b2.webp"
+      ]
+    },
+    "64": {
+      "0": [
+        "assets/cards/9506bffaec2fabc7.webp"
+      ],
+      "1": [
+        "assets/cards/422fd08c398f0b7b.webp"
+      ],
+      "2": [
+        "assets/cards/a7fce63216b7245b.webp"
+      ],
+      "3": [
+        "assets/cards/b751b871510ede8c.webp"
+      ],
+      "4": [
+        "assets/cards/e686f0df6b036f3f.webp"
+      ]
+    },
+    "65": {
+      "0": [
+        "assets/cards/faba3588ac65eff9.webp"
+      ],
+      "1": [
+        "assets/cards/fc30c889aacecc9c.webp"
+      ],
+      "2": [
+        "assets/cards/5553a05640da68aa.webp"
+      ],
+      "3": [
+        "assets/cards/47dbd977525cac1c.webp"
+      ],
+      "4": [
+        "assets/cards/cc356f444ed551c4.webp"
+      ]
+    },
+    "66": {
+      "0": [
+        "assets/cards/cf3cb1ee6a62dfce.webp"
+      ],
+      "1": [
+        "assets/cards/9d614c56dde8af68.webp"
+      ],
+      "2": [
+        "assets/cards/42d5ace234f75bc1.webp"
+      ],
+      "3": [
+        "assets/cards/43e7f57519b77852.webp"
+      ],
+      "4": [
+        "assets/cards/941727cc65e8cdff.webp"
+      ]
+    },
+    "67": {
+      "0": [
+        "assets/cards/3467702908e1a09c.webp"
+      ],
+      "1": [
+        "assets/cards/50ac01c65b6964e5.webp"
+      ],
+      "2": [
+        "assets/cards/7dc69b61008982ff.webp"
+      ],
+      "3": [
+        "assets/cards/a4023f22b569c516.webp"
+      ],
+      "4": [
+        "assets/cards/541fe7e7b79e9534.webp"
+      ]
+    },
+    "68": {
+      "0": [
+        "assets/cards/d5229fdb2c73af02.webp"
+      ],
+      "1": [
+        "assets/cards/4d600d20f7d47162.webp"
+      ],
+      "2": [
+        "assets/cards/ca375fa1bd37087d.webp"
+      ],
+      "3": [
+        "assets/cards/bc87e993130cb747.webp"
+      ],
+      "4": [
+        "assets/cards/6a67aabcee6bf80f.webp"
+      ]
+    },
+    "69": {
+      "0": [
+        "assets/cards/4e5049aafbd0efe0.webp"
+      ],
+      "1": [
+        "assets/cards/cde1852b66e49a89.webp"
+      ],
+      "2": [
+        "assets/cards/f4fb3cca192f120e.webp"
+      ],
+      "3": [
+        "assets/cards/939ae7de90c2b966.webp"
+      ],
+      "4": [
+        "assets/cards/70dbf5031dd583ac.webp"
+      ]
+    },
+    "70": {
+      "0": [
+        "assets/cards/c7d2741bd3f5f461.webp"
+      ],
+      "1": [
+        "assets/cards/a4b8652c27aeb72a.webp"
+      ],
+      "2": [
+        "assets/cards/25cdf0b935eb298c.webp"
+      ],
+      "3": [
+        "assets/cards/8eab6154692733c1.webp"
+      ],
+      "4": [
+        "assets/cards/e90419321e2082df.webp"
+      ]
+    },
+    "71": {
+      "0": [
+        "assets/cards/9aba7f416bc5024d.webp"
+      ],
+      "1": [
+        "assets/cards/c8f3b6afaf24113f.webp"
+      ],
+      "2": [
+        "assets/cards/92ee89a5d31c430f.webp"
+      ],
+      "3": [
+        "assets/cards/d93ee60042c869de.webp"
+      ],
+      "4": [
+        "assets/cards/403e75713b6bb6be.webp"
+      ]
+    },
+    "72": {
+      "0": [
+        "assets/cards/5c63037b06d583bd.webp"
+      ],
+      "1": [
+        "assets/cards/da159268e8587d79.webp"
+      ],
+      "2": [
+        "assets/cards/b0ffaf658b0a8f09.webp"
+      ],
+      "3": [
+        "assets/cards/2a1db237135281a8.webp"
+      ],
+      "4": [
+        "assets/cards/4fc0cdf49d3ca3c8.webp"
+      ]
+    },
+    "73": {
+      "0": [
+        "assets/cards/6edf99e4dc4090ac.webp"
+      ],
+      "1": [
+        "assets/cards/d63b509ceba59d32.webp"
+      ],
+      "2": [
+        "assets/cards/0a437758bd429283.webp"
+      ],
+      "3": [
+        "assets/cards/5a983117091dcb68.webp"
+      ],
+      "4": [
+        "assets/cards/78845539a0279bb3.webp"
+      ]
+    },
+    "74": {
+      "0": [
+        "assets/cards/afd4f7fcfd0ee8dd.webp"
+      ],
+      "1": [
+        "assets/cards/2df62fbc18da6c23.webp"
+      ],
+      "2": [
+        "assets/cards/f5ffc7ba27600a85.webp"
+      ],
+      "3": [
+        "assets/cards/b9c5a70a9d41e759.webp"
+      ],
+      "4": [
+        "assets/cards/f124a94182646ad7.webp"
+      ]
+    },
+    "75": {
+      "0": [
+        "assets/cards/a5786a006f912ffe.webp"
+      ],
+      "1": [
+        "assets/cards/23b781a501d48d7f.webp"
+      ],
+      "2": [
+        "assets/cards/824b34775c9c408f.webp"
+      ],
+      "3": [
+        "assets/cards/c10426dd9600eac0.webp"
+      ],
+      "4": [
+        "assets/cards/d427b133998617df.webp"
+      ]
+    },
+    "76": {
+      "0": [
+        "assets/cards/144e8f80fe78a689.webp"
+      ],
+      "1": [
+        "assets/cards/7cd60c7f8dfcdfe5.webp"
+      ],
+      "2": [
+        "assets/cards/c203fa057bbc9105.webp"
+      ],
+      "3": [
+        "assets/cards/09842d22986f6a5a.webp"
+      ],
+      "4": [
+        "assets/cards/09a99c8d082e85fd.webp"
+      ]
+    },
+    "77": {
+      "2": [
+        "assets/cards/5aaf128d42fec5a1.webp",
+        "assets/cards/d429420c8609c8ba.webp",
+        "assets/cards/f182fbe6c0a3c4d3.webp"
+      ]
+    },
+    "78": {
+      "2": [
+        "assets/cards/548bdcf0482c3691.webp"
+      ]
+    },
+    "79": {
+      "2": [
+        "assets/cards/09f8946c0da827a5.webp"
+      ]
+    },
+    "80": {
+      "2": [
+        "assets/cards/83665e28bce09d69.webp"
+      ]
+    },
+    "81": {
+      "2": [
+        "assets/cards/c614af44db581836.webp"
+      ]
+    },
+    "82": {
+      "2": [
+        "assets/cards/a43079ac4d057e00.webp"
+      ]
+    },
+    "83": {
+      "2": [
+        "assets/cards/de3025d207c031ac.webp"
+      ]
+    },
+    "84": {
+      "2": [
+        "assets/cards/19c847456eb46401.webp"
+      ]
+    },
+    "85": {
+      "2": [
+        "assets/cards/0ed4ff41392dd94a.webp"
+      ]
+    },
+    "86": {
+      "2": [
+        "assets/cards/c2a0e67792969891.webp"
+      ]
+    },
+    "87": {
+      "2": [
+        "assets/cards/7e4baa66cec2aabe.webp"
+      ]
+    },
+    "88": {
+      "2": [
+        "assets/cards/8fc24916eb66f78f.webp"
+      ]
+    },
+    "89": {
+      "2": [
+        "assets/cards/c7e9f9fa8ba59ceb.webp"
+      ]
+    },
+    "90": {
+      "2": [
+        "assets/cards/c0df34b4f3db67f7.webp"
+      ]
+    },
+    "91": {
+      "2": [
+        "assets/cards/21fef3050798d051.webp"
+      ]
+    },
+    "92": {
+      "2": [
+        "assets/cards/54e467d5af22e1a8.webp"
+      ]
+    },
+    "93": {
+      "2": [
+        "assets/cards/dc5876535940d05e.webp"
+      ]
+    },
+    "94": {
+      "2": [
+        "assets/cards/1a8e727dfc225dd4.webp",
+        "assets/cards/15e1da719fa5ece2.webp",
+        "assets/cards/9fbf715e21e542e0.webp"
+      ]
+    },
+    "95": {
+      "2": [
+        "assets/cards/9a5edcf990e4aafb.webp"
+      ]
+    },
+    "96": {
+      "2": [
+        "assets/cards/90dd96ab8f9d35f2.webp"
+      ]
+    },
+    "97": {
+      "2": [
+        "assets/cards/1959c1906b35097e.webp"
+      ]
+    },
+    "98": {
+      "2": [
+        "assets/cards/df91f200835bb675.webp"
+      ]
+    },
+    "99": {
+      "2": [
+        "assets/cards/b248f2d063f87c2c.webp"
+      ]
+    },
+    "100": {
+      "2": [
+        "assets/cards/543f20e90a521179.webp"
+      ]
+    },
+    "101": {
+      "2": [
+        "assets/cards/f057cb61e95a1439.webp"
+      ]
+    },
+    "102": {
+      "2": [
+        "assets/cards/d9e2c7c5d49ba3ac.webp",
+        "assets/cards/c18ceb6f8c9b027b.webp",
+        "assets/cards/5405c49fec94d8f2.webp"
+      ]
+    },
+    "103": {
+      "2": [
+        "assets/cards/6562f6c6428bcb98.webp"
+      ]
+    },
+    "104": {
+      "2": [
+        "assets/cards/cafb6607864803b4.webp"
+      ]
+    },
+    "105": {
+      "2": [
+        "assets/cards/cfd893475ef2f0df.webp"
+      ]
+    },
+    "106": {
+      "2": [
+        "assets/cards/0eaa23283428d909.webp"
+      ]
+    },
+    "107": {
+      "2": [
+        "assets/cards/c5b3ab955917e74a.webp"
+      ]
+    },
+    "108": {
+      "2": [
+        "assets/cards/e68631d071909499.webp"
+      ]
+    },
+    "109": {
+      "2": [
+        "assets/cards/8ec446704b627a9b.webp"
+      ]
+    },
+    "110": {
+      "2": [
+        "assets/cards/92f1d814e08d6c89.webp"
+      ]
+    },
+    "111": {
+      "2": [
+        "assets/cards/82186ee482506e05.webp"
+      ]
+    },
+    "112": {
+      "3": [
+        "assets/cards/ce5d416b26857f91.webp"
+      ]
+    },
+    "113": {
+      "3": [
+        "assets/cards/5df9b39c6d8edb2f.webp"
+      ]
+    },
+    "114": {
+      "3": [
+        "assets/cards/e393f1774385bed0.webp"
+      ]
+    },
+    "115": {
+      "3": [
+        "assets/cards/9a5ce71a32c9e021.webp"
+      ]
+    },
+    "116": {
+      "3": [
+        "assets/cards/d3be490cf599fdb9.webp",
+        "assets/cards/5b14c778f3c42662.webp",
+        "assets/cards/c8791afc396f3081.webp"
+      ]
+    },
+    "117": {
+      "3": [
+        "assets/cards/6209d53517d3f22c.webp",
+        "assets/cards/a593dee6778a8adb.webp",
+        "assets/cards/f5678f8a84cc2760.webp"
+      ]
+    },
+    "118": {
+      "3": [
+        "assets/cards/4fe38967eac83842.webp"
+      ]
+    },
+    "119": {
+      "3": [
+        "assets/cards/1721ad68e85663db.webp",
+        "assets/cards/a12a3e07d9641162.webp",
+        "assets/cards/af52c9d8f5b9b1b5.webp"
+      ]
+    },
+    "120": {
+      "3": [
+        "assets/cards/dbd8787689fce703.webp"
+      ]
+    },
+    "121": {
+      "3": [
+        "assets/cards/c231b736ed12ee3c.webp",
+        "assets/cards/f62c57d9339342fe.webp",
+        "assets/cards/07e5671f2bf509b8.webp"
+      ]
+    },
+    "122": {
+      "3": [
+        "assets/cards/a8e02644249351b5.webp",
+        "assets/cards/946dd619b28d3a4b.webp",
+        "assets/cards/e37de54ba230a089.webp"
+      ]
+    },
+    "123": {
+      "3": [
+        "assets/cards/015db387635e2330.webp"
+      ]
+    },
+    "124": {
+      "3": [
+        "assets/cards/6dec7a1a929e9c55.webp"
+      ]
+    },
+    "125": {
+      "3": [
+        "assets/cards/8a6d1b4ad5061682.webp"
+      ]
+    },
+    "126": {
+      "3": [
+        "assets/cards/73a136ed7fcdf385.webp",
+        "assets/cards/e8e3778dee826bf9.webp",
+        "assets/cards/ec797b0d2af1b75f.webp",
+        "assets/cards/b733fe0608e08572.webp",
+        "assets/cards/39cc87b837cd0216.webp"
+      ]
+    },
+    "127": {
+      "3": [
+        "assets/cards/8a4f1f3caef0532e.webp"
+      ]
+    },
+    "128": {
+      "3": [
+        "assets/cards/19d659d305d3b7d1.webp"
+      ]
+    },
+    "129": {
+      "3": [
+        "assets/cards/ee1b97b21a739d1d.webp"
+      ]
+    },
+    "130": {
+      "3": [
+        "assets/cards/2bcc176506b1ca62.webp"
+      ]
+    },
+    "131": {
+      "3": [
+        "assets/cards/abf2656f598e910d.webp"
+      ]
+    },
+    "132": {
+      "3": [
+        "assets/cards/6189ede9772f8b28.webp",
+        "assets/cards/90b4bee3fdb46bb9.webp"
+      ]
+    },
+    "133": {
+      "3": [
+        "assets/cards/85841a15630fb5c1.webp"
+      ]
+    },
+    "134": {
+      "3": [
+        "assets/cards/af6f193a44216cce.webp"
+      ]
+    },
+    "135": {
+      "4": [
+        "assets/cards/63eb3b52c1e4944d.webp"
+      ]
+    },
+    "136": {
+      "4": [
+        "assets/cards/0ed1116f86fd0e54.webp"
+      ]
+    },
+    "137": {
+      "4": [
+        "assets/cards/be77a0997418045d.webp"
+      ]
+    },
+    "138": {
+      "4": [
+        "assets/cards/0465d327999522a1.webp"
+      ]
+    },
+    "139": {
+      "4": [
+        "assets/cards/97b4d996f2fd5f4c.webp"
+      ]
+    },
+    "140": {
+      "4": [
+        "assets/cards/24f5b10f1f7c2d87.webp"
+      ]
+    },
+    "141": {
+      "4": [
+        "assets/cards/ceb921f26f9125e8.webp"
+      ]
+    },
+    "142": {
+      "4": [
+        "assets/cards/b62ad4124f90dee7.webp",
+        "assets/cards/49498d95185d355b.webp",
+        "assets/cards/8b6efcf2eb140c67.webp"
+      ]
+    },
+    "143": {
+      "4": [
+        "assets/cards/7b454960830dc5e1.webp"
+      ]
+    },
+    "144": {
+      "4": [
+        "assets/cards/9007308836e2115f.webp"
+      ]
+    },
+    "145": {
+      "4": [
+        "assets/cards/93867597f1204749.webp"
+      ]
+    },
+    "146": {
+      "4": [
+        "assets/cards/acd1ecb38b216034.webp"
+      ]
+    },
+    "147": {
+      "4": [
+        "assets/cards/c31df92596f386b0.webp"
+      ]
+    },
+    "148": {
+      "4": [
+        "assets/cards/7762f5d0c9829fd8.webp"
+      ]
+    },
+    "149": {
+      "4": [
+        "assets/cards/e97d9653c1e9b2b3.webp"
+      ]
+    },
+    "150": {
+      "4": [
+        "assets/cards/e39c77ef63111365.webp"
+      ]
+    },
+    "151": {
+      "4": [
+        "assets/cards/1a9b03236fbe673d.webp"
+      ]
+    },
+    "152": {
+      "4": [
+        "assets/cards/89662c1f8c4e6f7e.webp"
+      ]
+    },
+    "153": {
+      "4": [
+        "assets/cards/e1d5986cf6c632d2.webp"
+      ]
+    },
+    "154": {
+      "4": [
+        "assets/cards/f4a1aa5dc0470ea3.webp"
+      ]
+    },
+    "155": {
+      "4": [
+        "assets/cards/8449845aabf5bd45.webp"
+      ]
+    },
+    "156": {
+      "4": [
+        "assets/cards/0b12bfcd71ae2064.webp"
+      ]
+    },
+    "157": {
+      "4": [
+        "assets/cards/0e28bb1f288a4e32.webp"
+      ]
+    },
+    "158": {
+      "4": [
+        "assets/cards/7c887016b6114eeb.webp"
+      ]
+    },
+    "159": {
+      "4": [
+        "assets/cards/a558e318b185f04b.webp"
+      ]
+    },
+    "160": {
+      "4": [
+        "assets/cards/195a703e12643a9b.webp"
+      ]
+    },
+    "161": {
+      "4": [
+        "assets/cards/8dcdd6637242b3e0.webp"
+      ]
+    }
+  },
+  "backs": {
+    "0": "assets/cards/50819268765916fb.webp",
+    "1": "assets/cards/cdc78efd39836d81.webp",
+    "2": "assets/cards/184459648f62de56.webp",
+    "3": "assets/cards/36c4936ad3e2735f.webp",
+    "4": "assets/cards/7d0325b5ac5bda61.webp"
+  },
+  "factions": [
+    {
+      "id": 0,
+      "name": "Северные королевства",
+      "slug": "north_kingdoms",
+      "ability": "Добор одной карты после победы в раунде."
+    },
+    {
+      "id": 1,
+      "name": "Нильфгаард",
+      "slug": "nilfgaard",
+      "ability": "Победа при равенстве силы."
+    },
+    {
+      "id": 2,
+      "name": "Чудовища",
+      "slug": "monsters",
+      "ability": "Случайный обычный боец остаётся между раундами."
+    },
+    {
+      "id": 3,
+      "name": "Скоя’таэли",
+      "slug": "scoatael",
+      "ability": "Выбирают, кто ходит первым в партии."
+    },
+    {
+      "id": 4,
+      "name": "Скеллиге",
+      "slug": "skellige",
+      "ability": "В начале третьего раунда возвращаются два случайных обычных бойца из сброса."
+    }
+  ]
+}

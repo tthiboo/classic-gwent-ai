@@ -1,0 +1,102 @@
+{
+  "viewport": [
+    1440,
+    900
+  ],
+  "dpr": 2,
+  "canvasDprEmulated": true,
+  "errors": [],
+  "cursors": {
+    "#chooser": "none",
+    "#choiceCards": "none",
+    "#choiceActions button": "pointer",
+    "#closeChooser": "pointer",
+    "#choiceNext": "pointer"
+  },
+  "stability": {
+    "cards": 4,
+    "draws": 0,
+    "srcWrites": 0,
+    "identical": true
+  },
+  "burn": {
+    "initial": {
+      "hash": 2076758006,
+      "alpha": 0.9883798319327731,
+      "light": 0.405198907379945
+    },
+    "samples": [
+      {
+        "elapsed": 0,
+        "hash": 3608913409,
+        "alpha": 0.9849151260504202,
+        "light": 0.4038268585342679
+      },
+      {
+        "elapsed": 717,
+        "hash": 3625663370,
+        "alpha": 0.9663584033613445,
+        "light": 0.37363656322659644
+      },
+      {
+        "elapsed": 1317,
+        "hash": 4241365695,
+        "alpha": 0.8207894957983193,
+        "light": 0.17145911242928857
+      },
+      {
+        "elapsed": 1916,
+        "hash": 3092444890,
+        "alpha": 0.26666960784313726,
+        "light": 0.029285631899819
+      },
+      {
+        "elapsed": 2517,
+        "hash": 1215706544,
+        "alpha": 0.012325210084033613,
+        "light": 0.0015886946412551912
+      },
+      {
+        "elapsed": 2867,
+        "hash": 931068869,
+        "alpha": 0,
+        "light": 0
+      }
+    ],
+    "frames": 181,
+    "maxShift": 0,
+    "hiddenImage": true,
+    "minAlpha": 0,
+    "removed": true,
+    "p95": 18,
+    "maxFrame": 18
+  },
+  "villen": {
+    "seenArrival": true,
+    "firstFire": {
+      "elapsed": 640,
+      "attacker": true,
+      "animations": 0,
+      "targets": 2
+    },
+    "count": 1
+  },
+  "clear": {
+    "layers": 1,
+    "rowWaves": 0,
+    "rect": [
+      142,
+      12.7578125,
+      1136,
+      684.09375
+    ],
+    "board": [
+      142,
+      12.7578125,
+      1136,
+      684.09375
+    ],
+    "remaining": 0
+  },
+  "pass": true
+}
